@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Monity
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Here is the documentation about all parts of the Monity project.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+**Projects:**
+    
+| Project         | Technologies |           Documentation          | Repository |
+|-----------------|:------------:|:--------------------------------:|:----------:|
+| MonityApp       |   C# / WPF   |    [Link](MonityApp/index.md)    | [Github](https://github.com/RedSkiesReaperr/MonityApp) |
+| MonityMirror    |   C++ / Qt   |   [Link](MonityMirror/index.md)  | [Github](https://github.com/RedSkiesReaperr/MonityMirror) |
+| MonityProtocols |   C++ / C#   | [Link](MonityProtocols/index.md) | [Github](https://github.com/RedSkiesReaperr/MonityProtocols) |

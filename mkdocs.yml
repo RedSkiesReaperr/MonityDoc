@@ -1,11 +1,22 @@
 site_name: Monity Wiki
-site_url: https://monity.wiki
 
 nav:
   - Home: index.md
-  - MonityConfigPanel : monityConfigPanel.md
-  - MonityServer : monityServer.md
-  - MonityClient : monityClient.md
-  - MonityUI : monityUI.md
+  - Monity App: 
+    - Overview: MonityApp/index.md
 
-theme: readthedocs
+  - Monity Mirror:
+    - Overview: MonityMirror/index.md
+
+  - Monity Protocols:
+    - Overview: MonityProtocols/index.md
+    - Types:
+      - Metric: MonityProtocols/Types/Metric.md
+      - MetricType: MonityProtocols/Types/MetricType.md
+      - MetricUnit: MonityProtocols/Types/MetricUnit.md
+    - Commands: MonityProtocols/Commands.md
+
+theme:
+  name: material
+  logo: img/favicon.ico
+  favicon: img/favicon.ico

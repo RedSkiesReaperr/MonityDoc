@@ -1,0 +1,1 @@
+# MonityApp [![CircleCI](https://circleci.com/gh/RedSkiesReaperr/MonityApp/tree/master.svg?style=svg&circle-token=5172725a6f0872731b1779e6807dad0811ff33f1)](https://circleci.com/gh/RedSkiesReaperr/MonityApp/tree/master)
